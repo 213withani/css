@@ -7,6 +7,10 @@ https://www.youtube.com/watch?v=k32voqQhODc
 # CSS Grid
 https://www.youtube.com/watch?v=jV8B24rSN5o
 
+# Animation:
+https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5
+
+
 # Hover To View Hidden Text Overflow
 https://www.willmaster.com/library/web-development/hover-to-view-hidden-text-overflow.php
 
