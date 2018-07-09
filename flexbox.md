@@ -23,6 +23,16 @@ Fills up remainder space if this is the only element with flex 1, otw it shares 
 Ordering of content can be set using order property i.e. ```order:1```
 
 ##  Example # 3: Adding Margins
-Margins in btwn columns can be set using 
-
 Example is 3 divs stacked on top of each other sinc they are blocks. But we want them in the same line with margins in between.
+
+Container set to ```display: flex;``` will set all divs in the same line horizontally.
+
+Flexbox strength: Equal height columns. Tricky to setup with floats.
+
+Container/parent can set ``` align-items: flex-start ``` to use their natural height and all divs start/align at top. Size the divs based on their content, natural height and align them vertically: flex-start, flex-end, center. Default is stretch which gives us equal height.
+
+Margins
+``` margin-right: 40px``` can give you margins but last child has awkward margin.
+```box-sizing: border-box; width:30%; padding: 20px``` "border-box tells the browser to account for any border and padding in the values you specify for an element's width and height." MDN
+
+```box-sizing: border-box; flex-basis:30%; padding: 20px```
