@@ -1,9 +1,6 @@
 # HTML and CSS
 http://howtocodeinhtml.com/index.html#toc
 
-# CSS Grid
-https://www.youtube.com/watch?v=jV8B24rSN5o
-
 # Animation:
 https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5
 
