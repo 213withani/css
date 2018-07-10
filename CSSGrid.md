@@ -80,5 +80,21 @@ align-self:start;
 align-self:start;
 ```
 
+## Grid Columns using line numbers
+
+From column line 1 to 3
+
+```
+grid-column:1/3
+```
+
+From row line 1 to 3
+
+```
+grid-row:1/3
+```
+
+Columns and rows can overlap. This is not possible with flexbox.
+
 ```
 ```
