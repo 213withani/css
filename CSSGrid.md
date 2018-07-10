@@ -45,9 +45,11 @@ grid-auto-rows: minmax(100px,auto);
 ## You can nest grids.
 ## Justifying and aligning items
 
-Items here means the columns itself, not the content.
+column will fit content
 
-Align start of column, left.
+justify-items default is stretch.
+
+justify-items will align start of column, left and column will fit content horizontally.
 ```
 display:grid;
 grid-template-columns: 1fr 2fr 1fr;
@@ -56,8 +58,9 @@ grid-gap: 1em;
 justify-items: start;
 ```
 
+default is stretch, you can use ```start, center, end```
 
- default is stretch, you can use ```start, center, end```
+```align-items:``` column will fit content verically.
 
 ```
 align-items: start; // start of top, align top vertically
