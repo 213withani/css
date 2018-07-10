@@ -45,6 +45,8 @@ grid-auto-rows: minmax(100px,auto);
 ## You can nest grids.
 ## Justifying and aligning items
 
+Items here means the columns itself, not the content.
+
 Align start of column, left.
 ```
 display:grid;
@@ -64,7 +66,15 @@ align-items: start; // bottom
 align-items: stretch; // default, fills column
 ```
 
+All items at once  using ```justify-items``` or individually using ```justify-self ```.
+
+All items at once using ```align-items``` or individually using ```align-self ```.
+
 ```
+align-self:start;
+align-self:start;
+align-self:start;
+align-self:start;
 ```
 
 ```
