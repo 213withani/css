@@ -6,7 +6,40 @@ Flexbox: 1 dimensional layout for columns or rows.
 
 Grid: 2D Dimensional layouts for columns and rows.
 
+2 divs, 2 columns, if you add more it will add it and keep two columns.
 ```
 display:grid;
 grid-template-columns: 70% 30%; // creates two columns
 ```
+
+3 columns:
+```
+grid-template-columns: 40% 30% 30%; // creates two columns
+```
+
+Margin with same spacing for column and row:
+```
+grid-gap: 1em;
+```
+
+```
+display:grid;
+grid-template-columns: 1fr 2fr 1fr; // creates 3 columns with one being twice the size of the others.
+```
+
+```
+1fr 1fr 1fr 1fr  same as repeat(4, 1fr)
+```
+
+fixed heights, 100px with content doesn't matter. This is not content flexible.
+```
+grid-auto-rows: 100px;
+```
+
+100px by default but will stretch out to fill the content if content is > 100px. Only the row with bigger content will stretch, other rows stay at their min height.
+
+```
+grid-auto-rows: minmax(100px,auto);
+```
+
+## You can nest grids.
