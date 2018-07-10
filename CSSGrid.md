@@ -43,3 +43,29 @@ grid-auto-rows: minmax(100px,auto);
 ```
 
 ## You can nest grids.
+## Justifying and aligning items
+
+Align start of column, left.
+```
+display:grid;
+grid-template-columns: 1fr 2fr 1fr;
+grid-auto-rows: minmax(100px, auto);
+grid-gap: 1em;
+justify-items: start;
+```
+
+
+ default is stretch, you can use ```start, center, end```
+
+```
+align-items: start; // start of top, align top vertically
+align-items: center; // midway
+align-items: start; // bottom
+align-items: stretch; // default, fills column
+```
+
+```
+```
+
+```
+```
