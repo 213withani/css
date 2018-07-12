@@ -1,6 +1,8 @@
 # HTML and CSS
 http://howtocodeinhtml.com/index.html#toc
 
+https://medium.freecodecamp.org/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f
+
 # Animation:
 https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5
 
