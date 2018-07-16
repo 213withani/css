@@ -1,4 +1,4 @@
-# center three columns 
+# center 3 columns 
 ### with same clasname
 ```js
 .career-content {
@@ -10,7 +10,7 @@
 }
 ```
 
-# center three columns
+# center 2 columns
 ### different width/ flex-basis
 
 ```js
