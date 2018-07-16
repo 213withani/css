@@ -27,6 +27,7 @@ a {
 
 # CSS Pseudo selectors
 https://css-tricks.com/examples/ShapesOfCSS/
+http://nicolasgallagher.com/multiple-backgrounds-and-borders-with-css2/
 
 # Hover To View Hidden Text Overflow
 https://www.willmaster.com/library/web-development/hover-to-view-hidden-text-overflow.php
