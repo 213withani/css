@@ -1,3 +1,14 @@
+# small screens
+```js
+/*Only do flex for screens > 900px*/
+@media (min-width: 900px) {
+  .careers-container {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+```
 # center 3 columns 
 ### with same clasname
 ```js
