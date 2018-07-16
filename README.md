@@ -6,7 +6,8 @@ https://medium.freecodecamp.org/how-to-build-a-delightful-loading-screen-in-5-mi
 # Animation:
 https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5
 
-# List - no decoration
+# No decoration
+## List 
 https://stackoverflow.com/questions/1027354/need-an-unordered-list-without-any-bullets
 
 ```js
@@ -14,6 +15,13 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+```
+## Anchor tag
+```js
+a {
+  text-decoration: none;
+  color: black;
 }
 ```
 
