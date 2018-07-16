@@ -1,3 +1,35 @@
+# center three columns 
+### with same clasname
+```js
+.career-content {
+  /* border: solid black; */
+  padding: 0; /* usually part of basis and box sizing */
+  margin: 10px;
+  flex-basis: 30%; /* width flex way */
+  box-sizing: border-box; /* easier calc */
+}
+```
+
+# center three columns
+### different width/ flex-basis
+
+```js
+.class-name-one {
+  padding: 0; 
+  margin: 10px;
+  flex-basis: 30%; 
+  box-sizing: border-box;
+}
+
+.class-name-two {
+  padding: 0; 
+  margin: 10px;
+  flex-basis: 60%; 
+  box-sizing: border-box;
+}
+```
+
+
 # combine-flexbox-and-css-grids-for-layouts-how-to
 https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to/
 
