@@ -24,3 +24,7 @@ text-overflow:ellipsis; to print an elipsis where some of the text is clipped.
 
 Use the overflow:visible; CSS declaration for the class' :hover selector.
 
+# expand the content to its full length on mouseover.
+https://stackoverflow.com/a/33422695
+https://stackoverflow.com/questions/5474871/html-how-can-i-show-tooltip-only-when-ellipsis-is-activated
+
