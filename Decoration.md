@@ -3,7 +3,7 @@
 ## List 
 https://stackoverflow.com/questions/1027354/need-an-unordered-list-without-any-bullets
 
-```js
+```css
 ul {
   list-style-type: none;
   margin: 0;
@@ -11,7 +11,7 @@ ul {
 }
 ```
 ## Anchor tag
-```js
+```css
 a {
   text-decoration: none;
   color: black;
