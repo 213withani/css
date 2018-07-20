@@ -22,7 +22,7 @@ a {
 http://selfteach.me/customizing-radio-buttons-checkboxes/
 https://www.youtube.com/watch?v=hOU4Aqci2zs
 
-```js
+```css
 input[type=radio] {
   display: none;
 }
