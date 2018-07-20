@@ -3,8 +3,14 @@ http://howtocodeinhtml.com/index.html#toc
 
 https://medium.freecodecamp.org/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f
 
+# HTML title attribute
+https://developer.paciellogroup.com/blog/2013/01/using-the-html-title-attribute-updated/
+
 # Animation:
 https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5
+
+## Animatted logo
+https://www.tigera.io/event/aws-summit-anaheim-2/
 
 # EM vs REM vs PX – Why you shouldn't “just use pixels” (2017)
 https://engageinteractive.co.uk/blog/em-vs-rem-vs-px
