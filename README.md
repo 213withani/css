@@ -34,3 +34,8 @@ Use the overflow:visible; CSS declaration for the class' :hover selector.
 https://stackoverflow.com/a/33422695
 https://stackoverflow.com/questions/5474871/html-how-can-i-show-tooltip-only-when-ellipsis-is-activated
 
+# Styled components
+https://www.youtube.com/watch?v=qu4U7lwZTRI
+beginning of vid, just shows what css and libraries cover ex. Khan has created it's own library
+
+@15 mins lecturer starts with create-react-app and at 17 mins shows implementation.
