@@ -33,3 +33,5 @@ input[type=radio]:checked + label {
   color: white;
 }
 ``
+
+http://react.tips/radio-buttons-in-reactjs/
