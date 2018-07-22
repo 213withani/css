@@ -3,6 +3,9 @@ http://howtocodeinhtml.com/index.html#toc
 
 https://medium.freecodecamp.org/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f
 
+## css columns
+https://developer.mozilla.org/en-US/docs/Web/CSS/columns
+
 # HTML title attribute
 https://developer.paciellogroup.com/blog/2013/01/using-the-html-title-attribute-updated/
 
