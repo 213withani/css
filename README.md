@@ -1,3 +1,7 @@
+# Good UI design
+http://mixu.net/
+http://mixu.net/gr/
+
 # HTML and CSS
 http://howtocodeinhtml.com/index.html#toc
 
