@@ -32,13 +32,12 @@ http://nicolasgallagher.com/multiple-backgrounds-and-borders-with-css2/
 # Hover To View Hidden Text Overflow
 https://www.willmaster.com/library/web-development/hover-to-view-hidden-text-overflow.php
 
-white-space:nowrap; keeps all text on one line
-
-overflow:hidden; to clip any text that extends past the right side of the container.
-
-text-overflow:ellipsis; to print an elipsis where some of the text is clipped.
-
-Use the overflow:visible; CSS declaration for the class' :hover selector.
+```css
+white-space:nowrap; //keeps all text on one line
+overflow:hidden; //to clip any text that extends past the right side of the container.
+text-overflow:ellipsis; //to print an elipsis where some of the text is clipped.
+Use the overflow:visible; //CSS declaration for the class' :hover selector.
+```
 
 # expand the content to its full length on mouseover.
 https://stackoverflow.com/a/33422695
