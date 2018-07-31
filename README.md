@@ -1,9 +1,8 @@
 # SCSS
 https://medium.freecodecamp.org/how-to-get-better-at-writing-css-a1732c32a72f
 
-# Good UI design
-http://mixu.net/
-http://mixu.net/gr/
+# HTML/CSS/Vanilla JS
+https://medium.com/@thebabscraig/create-a-halo-5-inspired-loading-icon-with-html-css-and-vanilla-javascript-3b11e9e3f0fc
 
 # HTML and CSS
 http://howtocodeinhtml.com/index.html#toc
