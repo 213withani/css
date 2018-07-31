@@ -1,4 +1,5 @@
 # SCSS
+## How to get better at writing CSS
 https://medium.freecodecamp.org/how-to-get-better-at-writing-css-a1732c32a72f
 
 # HTML/CSS/Vanilla JS
