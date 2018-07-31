@@ -29,20 +29,6 @@ https://engageinteractive.co.uk/blog/em-vs-rem-vs-px
 https://css-tricks.com/examples/ShapesOfCSS/
 http://nicolasgallagher.com/multiple-backgrounds-and-borders-with-css2/
 
-# Hover To View Hidden Text Overflow
-https://www.willmaster.com/library/web-development/hover-to-view-hidden-text-overflow.php
-
-```css
-white-space: nowrap; /*keeps all text on one line*/
-overflow: hidden; /*to clip any text that extends past the right side of the container.*/
-text-overflow :ellipsis; /*to print an elipsis where some of the text is clipped.*/
-/*Use the overflow:visible; CSS declaration for the class' :hover selector.*/
-```
-
-# expand the content to its full length on mouseover.
-https://stackoverflow.com/a/33422695
-https://stackoverflow.com/questions/5474871/html-how-can-i-show-tooltip-only-when-ellipsis-is-activated
-
 # Styled components
 https://www.youtube.com/watch?v=qu4U7lwZTRI
 beginning of vid, just shows what css and libraries cover ex. Khan has created it's own library
