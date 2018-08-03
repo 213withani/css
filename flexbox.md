@@ -1,7 +1,10 @@
 # Flexbox — The Animated Tutorial
 ## Flex w/ defaults 
-By default flex will not wrap your items. It works a lot like overflow: hidden;
+
 https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2
+
+By default flex will not wrap your items. It works a lot like overflow: hidden;
+![Flex Wrap](https://cdn-images-1.medium.com/max/1000/1*ifh1BiMPRpuZW7M0IgKn2Q.gif)
 
 ## Flex w/ defaults + flex-wrap: wrap;
 ![Flex Wrap](https://cdn-images-1.medium.com/max/1000/1*4hLqiU88qnEh1ATONlCXXA.gif)
