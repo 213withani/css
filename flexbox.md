@@ -1,13 +1,17 @@
 # Flexbox — The Animated Tutorial
-## Flex w/ defaults 
 
 https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2
 
 By default flex will not wrap your items. It works a lot like overflow: hidden;
 ![Flex Wrap](https://cdn-images-1.medium.com/max/1000/1*ifh1BiMPRpuZW7M0IgKn2Q.gif)
-
-## Flex w/ defaults + flex-wrap: wrap;
 ![Flex Wrap](https://cdn-images-1.medium.com/max/1000/1*4hLqiU88qnEh1ATONlCXXA.gif)
+
+![Flex Wrap](https://cdn-images-1.medium.com/max/1000/1*_f0MFEMH2eHqOizU3H-ojg.gif)
+![Flex Wrap](https://cdn-images-1.medium.com/max/1000/1*wQqJLrONR-EwnVvAzsu6oA.gif)
+Space between means that there is space between all inner items:
+
+![Flex Wrap](https://cdn-images-1.medium.com/max/1000/1*sqMyo7ci5q6SbphollmQmA.gif)
+![Flex Wrap](https://cdn-images-1.medium.com/max/1000/1*Yci5P9msWj3JzuksrL9rXw.gif)
 
 # small screens
 ```js
