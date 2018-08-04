@@ -1,7 +1,9 @@
+https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc
+
 # Flexbox — The Animated Tutorial
 
 https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2
-
+The justify-content property determines the horizontal align of flex items. 
 By default flex will not wrap your items. It works a lot like overflow: hidden;
 ![Flex Wrap](https://cdn-images-1.medium.com/max/1000/1*ifh1BiMPRpuZW7M0IgKn2Q.gif)
 ![Flex Wrap](https://cdn-images-1.medium.com/max/1000/1*4hLqiU88qnEh1ATONlCXXA.gif)
@@ -11,7 +13,16 @@ By default flex will not wrap your items. It works a lot like overflow: hidden;
 Space between means that there is space between all inner items:
 
 ![Flex Wrap](https://cdn-images-1.medium.com/max/1000/1*sqMyo7ci5q6SbphollmQmA.gif)
+Property space-between (above) has no outer margins on corner items.
+Property space-around (below) creates equal margins around all items.
+![Flex Wrap](https://cdn-images-1.medium.com/max/1000/1*zfISj_ZSke7QNgf5zgPXBg.gif)
 ![Flex Wrap](https://cdn-images-1.medium.com/max/1000/1*Yci5P9msWj3JzuksrL9rXw.gif)
+![Flex Wrap](https://cdn-images-1.medium.com/max/1000/1*Yci5P9msWj3JzuksrL9rXw.gif)
+![Flex Wrap](https://cdn-images-1.medium.com/max/1000/1*Yci5P9msWj3JzuksrL9rXw.gif)
+
+# Align Content
+align things vertically
+
 
 # small screens
 ```js
