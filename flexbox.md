@@ -1,4 +1,13 @@
+# Flex
 https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc
+
+Parent: container
+Element inside parent are items
+
+for horizontal widths and gaps use justify
+to vertically align use align
+
+(https://cdn-images-1.medium.com/max/1000/1*wyQwuPQq3CBP4p8lDX4sGQ.gif)
 
 # Flexbox — The Animated Tutorial
 
