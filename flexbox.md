@@ -7,7 +7,10 @@ Element inside parent are items
 for horizontal widths and gaps use justify
 to vertically align use align
 
-![Justify content](https://cdn-images-1.medium.com/max/1000/1*wyQwuPQq3CBP4p8lDX4sGQ.gif)
+![Justify content](https://cdn-images-1.medium.com/max/800/1*V1bfijm-RCdlxcZhP7tYwA.png)
+![Justify content](https://cdn-images-1.medium.com/max/800/1*XGm7JEbXLe3e9_XAdgZDYw.png)
+![Justify content](https://cdn-images-1.medium.com/max/800/1*V1bfijm-RCdlxcZhP7tYwA.png)
+
 
 # Flexbox — The Animated Tutorial
 
