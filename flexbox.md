@@ -1,3 +1,4 @@
+# Firebase App named '[DEFAULT]' already exists (app/duplicate-app)
 https://github.com/zeit/next.js/issues/1999
 ```js
 // Config file
