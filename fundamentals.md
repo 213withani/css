@@ -24,5 +24,19 @@ We think of pixels as a more relative unit because their size will be different 
 }
 ```
 
-# floating
+## floating
 ``` clear:both ``` Lets get past all the floating elements and then display.
+
+## separated is being more specific
+ids and classes space separated is being more specific
+
+```
+#nav ul{
+ list-style-type: none;
+}
+```
+
+# a link text decoration is none
+
+# font
+``` font-family: Heveltica, Arial, sans-serif; ```
