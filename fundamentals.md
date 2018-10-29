@@ -2,5 +2,11 @@
 https://youtu.be/0afZj1G0BIE
 
 * In html it is good to define rows and then split the rows up into columns if necessray. 
+
+## 800 px
+https://www.quora.com/How-much-is-800-pixels
+We think of pixels as a more relative unit because their size will be different on different devices. a high resolution device will have more pixels per inch/cm and thus the pixels will be smaller.
+
+
 * commas are used to shared properties between elements.
 * spaces are used to be more specific. You can drill down inside nested elements, thus a long chain separated by spaces can be createda.
