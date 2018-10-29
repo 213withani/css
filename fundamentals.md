@@ -49,3 +49,16 @@ Means sharing
  color: blue;
 }
 ```
+
+# style in header
+
+Add css directly in html
+```
+<head>
+ #header {
+  color: blue;
+ }
+</head>
+```
+
+## Inline
