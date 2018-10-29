@@ -40,3 +40,12 @@ ids and classes space separated is being more specific
 
 # font
 ``` font-family: Heveltica, Arial, sans-serif; ```
+
+## separated by comma 
+Means sharing 
+
+```
+#header, .sidebar {
+ color: blue;
+}
+```
