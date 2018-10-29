@@ -28,8 +28,8 @@ We think of pixels as a more relative unit because their size will be different 
 ``` clear:both ``` Lets get past all the floating elements and then display.
 
 ## separated is being more specific
-ids and classes space separated is being more specific
-
+* ids and classes space separated is being more specific
+* But ul has to be nested inside nav
 ```
 #nav ul{
  list-style-type: none;
