@@ -1,3 +1,18 @@
+# pseudo firstChild
+```
+listItem: {
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    height: `${MENU_ITEM}px`,
+    cursor: 'pointer',
+    ':firstChild': {
+      paddingLeft: '0',
+    },
+    border: 'solid green'
+  },
+```
+
 # ReactJS Calendar
 
 https://www.youtube.com/watch?v=9U0uTNfY1UA
