@@ -1,3 +1,6 @@
+# flex row justifyContent
+justifyContent aligns content horizontally i.e. center, flex-end when default is row. Moves things along the row.
+
 # Firebase App named '[DEFAULT]' already exists (app/duplicate-app)
 https://github.com/zeit/next.js/issues/1999
 ```js
