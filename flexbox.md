@@ -1,4 +1,4 @@
-# flex row justifyContent
+# flex row justifyContent moves along row.
 justifyContent aligns content horizontally i.e. center, flex-end when default is row. Moves things along the row.
 
 # Firebase App named '[DEFAULT]' already exists (app/duplicate-app)
