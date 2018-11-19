@@ -1,3 +1,6 @@
+# view port (vh/vw)
+The difference between % and vw is most similar to the difference between em and rem. A % length is relative to local context (containing element) width, while a vw length is relative to the full width of the browser window.
+
 # pseudo firstChild
 ```
 listItem: {
